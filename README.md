@@ -55,6 +55,15 @@ New agents added, with admin departments to work tickets in Osticket
 <br />
 
 <p>
+<img src="https://i.imgur.com/owfiYRT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA configurations added for assignemnt and timeframe of tickets to be worked. SEV-A and SEV-B are 24/7 tickets while SEV-C is a business hours assignment and has an 8 hour timeframe to be completed within business hours of Monday-Friday 8-5pm. 
+  
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
