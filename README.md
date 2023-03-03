@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation] (https://youtu.be/K7T_JjvEamg)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -39,7 +36,7 @@ Adding System Administrators to departments in Osticket
 <br />
 
 <p>
-<img src="https://i.imgur.com/rAEK46N.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rAEK46N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Creating additional Level II support to Teams for assignment in Osticket
